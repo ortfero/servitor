@@ -1,11 +1,3 @@
-# servitor
-
-C++ header-only library to make services
-
-
-## Snippet
-
-```cpp
 #include <thread>
 #include <chrono>
 #include <mutex>
@@ -132,4 +124,4 @@ int main(int argc, char* argv[]) {
   std::puts("Ok");
   return 0;
 }
-```
+
