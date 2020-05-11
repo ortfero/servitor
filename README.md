@@ -1,6 +1,6 @@
 # servitor
 
-C++ header-only library to make services
+C++ header-only library to make windows services
 
 
 ## Snippet
